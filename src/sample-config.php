@@ -34,4 +34,6 @@ $src = "https://github.com/Toxantron/scrumonline/tree/master";
 $plugins = [
     // Plugin to load issues from github
     'GitHub',
+    // Import issues from CSV file
+    'CSV'
 ];
