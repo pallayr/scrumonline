@@ -29,3 +29,9 @@ $cardSets = [
 
 // Src tree for documentation linking from page
 $src = "https://github.com/Toxantron/scrumonline/tree/master";
+
+// Active ticketing plugins
+$plugins = [
+    // Plugin to load issues from github
+    'GitHub',
+];
